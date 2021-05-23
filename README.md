@@ -4,4 +4,6 @@ Scrapes dictionary definitions from Oxford Dictionary and Collins Cobuild DIctio
 
 Waits and retries in case of errors. Can be stopped at anytimes; resumes right where it stopped. 
 
+Requires Selenium.
+
 EDUCATIONAL PURPOSES ONLY
